@@ -5,6 +5,25 @@
   
   <entry>
     <title>保研总结</title>
+    <link href="/2023/11/12/some-web/"/>
+    <url>/2023/11/12/some-web/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一些网站的收集"><a href="#一些网站的收集" class="headerlink" title="一些网站的收集"></a>一些网站的收集</h1><ul><li>Stanford CS236</li></ul><p><a href="https://deepgenerativemodels.github.io/">Deep Generative Models</a><br>配套笔记：<a href="https://github.com/deepgenerativemodels/notes">https://github.com/deepgenerativemodels/notes</a></p><ul><li>Fluid配置说明</li></ul><p><a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a></p><ul><li>博客使用一些说明</li></ul><p><a href="https://gcoder5.com/2023/03/16/hexo-github-namesilo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/#%E4%B8%83%E3%80%81%E5%8F%91%E5%B8%83%E5%88%B0github%EF%BC%88%E5%8F%AF%E9%80%89%EF%BC%89">hexo+github+namesilo搭建个人博客</a></p><p>npx hexo g</p><p>npx hexo s</p><p>推送public目录</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Others</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>保研总结</title>
     <link href="/2023/10/20/baoyan/"/>
     <url>/2023/10/20/baoyan/</url>
     
